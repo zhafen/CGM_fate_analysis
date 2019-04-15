@@ -31,9 +31,9 @@ MASS_BINS = {
     'm11b' : 'm10',
 }
 
-SNUM = 172
+SNUM = 465
 
-GALDEF = '_galdefv3'
+GALDEF = ''
 
 # Account for the fact that, at z>2, m10v is rather unreliable
 if SNUM <= 172:
