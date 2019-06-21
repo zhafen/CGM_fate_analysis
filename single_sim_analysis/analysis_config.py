@@ -3,4 +3,4 @@
 
 SIM_NAME = 'm10y' 
 
-SNUM = 465
+SNUM = 172
